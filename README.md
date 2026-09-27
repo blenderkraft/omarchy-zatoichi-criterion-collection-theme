@@ -6,6 +6,18 @@ The wallpapers are the covers from the original Zatoichi film series. Zatoichi (
 
 Source: [Zatoichi](https://en.wikipedia.org/wiki/Zatoichi) on Wikipedia.
 
+## Screenshots
+
+![The Criterion Collection box, the first wallpaper](screenshots/01-collection.png)
+
+![The Tale of Zatoichi](screenshots/02-tale.png)
+
+![Zatoichi's Flashing Sword](screenshots/03-flashing-sword.png)
+
+![Zatoichi Meets Yojimbo](screenshots/04-yojimbo.png)
+
+![Zatoichi's Conspiracy](screenshots/05-conspiracy.png)
+
 Install:
 
 ```bash
